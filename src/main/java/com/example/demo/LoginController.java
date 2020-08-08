@@ -9,6 +9,6 @@ public class LoginController {
     @RequestMapping("/login")
     @ResponseBody
     public String test(){
-        return "Hello Spring Boot testing demo hello";
+        return "Hello Spring Boot........";
     }
 }
